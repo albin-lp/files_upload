@@ -1,0 +1,1163 @@
+# ip block
+
+
+Upon checking, we have been able to see that your IP address has been temporarily blocked in the server's firewall due to a POP3 login failure. You can check this in the following log:
+
+Failed POP3 login from 181.46.36.66 (AR/Argentina/cpe-181-46-36-66.telecentro-reversos.com.ar): 12 in the last 300 secs)
+
+I have unblocked the IP address. Please check it again from your side.
+Please verify that you are using the correct credentials when setting up the mail client.
+
+
+* His IP address was blocked on the server and as of now, I have unblocked it from our side
+
+Please check back and let me know if you need more help.
+
+# password reset
+
+I have verified the logins and confirmed that I am able to access it without any issue. Do let us know if you need any further assistance.
+
+# matte forwarding 
+
+Hello,
+
+I am forwarding this to our senior admin. He will check on this and get back to you.
+
+# htaccess
+
+The issue is been caused due to the bot deny rule under htaccess file
+As of now, I have disabled the rule
+
+Please have a check again the domain is loading now
+
+
+# cpanal password setting
+
+I have sent you the cPanel login credentials to your registered email address with the subject "Simply Hosting .:. Your Account Has Been Setup".
+
+You can change the cPanel password by following the steps mentioned in the below URL:
+
+https://www.simplyhosting.net/index.php?rp=/knowledgebase/13/How-to-change-your-cPanel-password.html
+Do let us know if you need any further assistance.
+
+
+# mail issue 
+
+I have checked and confirmed that I am able to send and receive mail from nick@serpell.org without any issue. Please see the logs below.
+
+Are you facing the issue in any mail client ? If so please share us the screenshot of the error and your public IP so that we can have a detailed check on this. You can obtain the IP from below link.
+
+https://www.simplyhosting.net/whatsmyip
+
+
+# domain renew and bw
+
+Hello Sir,
+
+Upon checking we could see that your domain 'arcuscon.net' is currently expired. You can verify the same from the below link:
+~~~
+https://www.whois.com/whois/arcuscon.net
+~~~
+Please renew the domain name by contacting your registrar and it will resolve the issue.
+If you have any further questions or concerns, let us know. We are here 24/7 and always happy to help.
+
+
+
+# install via ayuda
+
+You can install Moodle via cPanel by following the steps below:
+
+https://ayuda.nuthost.com/knowledge-base/como-instalar-moodle-cpanel
+
+Please check from your point of view.
+
+
+
+
+# thanks for reply
+
+Thanks for the update
+
+Feel free to get back to us, If you need any further assistance
+
+
+# sale administration
+
+Thank you for contacting NUTHOST!
+The Sales and Administration department will be answering your query during its opening hours (Monday to Friday from 9:00 a.m. to 6:00 p.m. GMT -3.00).
+Please wait and we will contact us as soon as possible.
+Thanks a lot.
+
+
+
+
+# cpanal password
+
+Sorry for the confusion. The welcome letter that we sent you earlier contains your cPanel logins which we have just resend it for you. Other than resending the welcome letter we haven't made any changes to your account subscription. You can use the below credentials to access cPanel.
+
+URL: https://namkudumbam.net:2083
+User: namkudum
+Password: 1xNHr429jb
+I have verified the logins and confirmed that I am able to access it without any issue. Do let us know if you need any further assistance.
+
+
+# email blk 
+
+The IP address was blocked again on the server due to an invalid login for the email account parbras@parbras.com.ar. You can check it in the following log:
+
+May 28 11:38:13 toran dovecot: pop3-login: login: user=<parbras@parbras.com.ar>, method=PLAIN, rip=45.174.149.4, lip=167.250.5.13, mpid=23171, TLS, session=<nmZwXxPgtvMtrpUE>.
+I have unblocked it from our side
+
+if you are configured email account with any email client please reconfigure with new credentials.
+
+Translated with www.DeepL.com/Translator (free version)
+
+
+# ftp error
+
+
+The error tells you that the password is incorrect.
+
+Please check that you are using the following settings in your FTP manager:
+
+Server: mon08.servidoraweb.net
+User: pelota
+Password: K0c#xEVO-pBt
+Puerto: 21 o 9021
+Transfer: Passive
+Best regards.
+
+
+# reply to check db
+
+In that case, you can check the following usage guide:
+
+https://ayuda.nuthost.com/knowledge-base/cron-jobs-configuracion-de-tareas-en-cpanel
+
+
+# sorry server down issue
+
+I regret the inconvenience caused.
+
+Our team is working on the problem and it will be fixed soon
+
+In the meantime, we appreciate your patience.
+
+If you have any further questions or concerns, let us know. We are here 24/7 and always happy to help.
+
+Best regards.
+
+
+# ready server down issue
+
+A network issue caused the problem and our management teams fixed the problem.
+
+Please check the same and let us know
+
+Best regards.
+
+
+# email issue bw
+
+Hello Sir,
+
+We have made some tweaks to server SMTP settings and have tested sending emails to Gmail. It was sent/received without any issues. You can refer to the below log
+
+Please have a check from your end and let us know
+
+If you have any further questions or concerns, let us know. We are here 24/7 and always happy to help.
+
+
+# ip blk with invalid mail logins
+
+The IP 190.191.58.27 has been re-blocked on the server due to failed authentication of the hugo@aldeacreatividad.com account.
+
+May 29 15:21:11 imutes dovecot[643112]: imap-login: Desconectado: Inicio de sesión abortado por cierre de sesión (autentificación fallida, 2 intentos en 12 segundos): user=<hugo@aldeacreatividad.com>, method=PLAIN, rip=190.191.58.27, lip=167.250.5.70, TLS, session=<aOvtmSrgHe6+vzob>
+May 29 15:21:15 imutes dovecot[643112]: imap-login: Desconectado: Inicio de sesión abortado por cierre de sesión (autentificación fallida, 2 intentos en 4 segundos): user=<hugo@aldeacreatividad.com>, method=PLAIN, rip=190.191.58.27, lip=167.250.5.70, TLS, session=<JXmomirgH+6+vzob>
+I have removed the IP block.
+Please double check your email password and check all your email devices and apps and verify that you are using the correct password.
+
+If you have forgotten the email password, you can check the following link for the steps to reset the password of cpanel
+https://ayuda.nuthost.com/knowledge-base/como-cambio-las-contrasenas-de-mis-cuentas-de-email
+
+
+
+# domain loading without anu issue
+
+
+Upon checking we could see that the domain 'legalgenealogist.com' is loading without any issues from our end. You can verify the same from the attached screenshot.
+Please have a recheck after clearing the browser cache.
+If you are still facing any issues please get back to us with the screenshot of the error and your public IP address. You can find your public IP address from the below link:
+
+https://www.simplyhosting.net/whatsmyip
+
+
+# thank for update
+
+Thanks for the update.
+Do not hesitate to contact us if you need further assistance.
+
+
+# domain is working from our end
+
+The domain "pablomoreno.com.ar" seems to load fine and there is no block for IP 190.96.112.82 on our server.
+
+Check this and follow the problem, enter the URL https://www.ipdenavegacion.com.ar/ and contact us with the results you receive there. We will verify if your IP is being blocked by our firewall and whitelist it if that is the case.
+
+
+The site works well on our part, you can check it in the attached screenshot. Provide more details about the problem you are facing and provide the screenshot as well.
+
+Best regards.
+
+
+# server load issue
+
+Hello Jaime Diego Cribilleros Avila!
+
+Please try again, the problem seems to be caused by a slight load spike on the server
+
+Now the load has been reduced
+
+Please check and let me know if you need more help.
+
+Best regards.
+
+
+# email issue with other domain
+
+Upon checking i couldn't find any issue while sending email to your account "test@crystal-research.com.pe" from our test hotmail account, Please see the log below:
+
+2022-06-12 15:43:40 1o0SYl-00FkOk-DR <= testingaccount786@hotmail.com H=mail-bmxind01olkn2047.outbound.protection.outlook.com (IND01-BMX-obe.outbound.protection.outlook.com) [40.92.103.47]:32324 P=esmtps X=TLS1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no S=9108 id=maxpr01mb2160bdeff051186d39a0be50e1a89@maxpr01mb2160.indprd01.prod.outlook.com T="TEst mail" for test@crystal-research.com.pe
+2022-06-12 15:43:40 1o0SYl-00FkOk-DR => test <test@crystal-research.com.pe> R=virtual_user T=dovecot_virtual_delivery C="250 2.0.0 <test@crystal-research.com.pe> EPaoBtwzpmKLRjkAD5HzVg Saved"
+2022-06-12 15:43:40 1o0SYl-00FkOk-DR Completed
+
+I have also verified your domain reputation and it seems fine, Please see the link: https://www.mail-tester.com/test-tdinqydzs
+
+The issue might be caused by the remote email account "notificaciones@contactoniubiz.pe", Please contact your remote email provider
+
+
+# email issue with public ip link
+
+
+Hello Mariana Abdala!
+
+To verify the problem we do not have access to the email account "notificaciones@contactoniubiz.pe"
+
+Although when I have checked the recent registration, I have found that the automatic email of "notificaciones@contactoniubiz.pe" seems to be received in "test@crystal-research.com.pe", please see the log below:
+
+2022-06-12 15:22:55 1o0SEd-00Fh64-0o H=esa2.hc3591-63.iphmx.com [139.138.34.41]:40452 Warning: "SpamAssassin as iehjdppe detected message as NOT spam (-0.0)"
+2022-06-12 15:22:55 1o0SEd-00Fh64-0o <= notificaciones@contactoniubiz.pe H=esa2.hc3591-63.iphmx.com [139.138.34.41]:40452 P=esmtp S=10181 id=5bf61d020fe0484ca0fefe0bd1fb267a@SC1P152MB2720.LAMP152.PROD.OUTLOOK.COM T="Respuesta autom\341tica - Buz\363n Notificaciones" for test@crystal-research.com.pe
+2022-06-12 15:22:55 cwd=/var/spool/exim 3 args: /usr/sbin/exim -Mc 1o0SEd-00Fh64-0o
+2022-06-12 15:22:55 1o0SEd-00Fh64-0o => test <test@crystal-research.com.pe> R=virtual_user T=dovecot_virtual_delivery C="250 2.0.0 <test@crystal-research.com.pe> 3v34IP8upmLbFDkAD5HzVg Saved"
+2022-06-12 15:22:55 1o0SEd-00Fh64-0o Completed
+I have also verified the email accounts under the domain "crystal-research.com.pe" and it seems that it has no problem
+
+Please check again and if you still have the problem, please indicate to me the public IP of the user who has the problem along with the screenshot of the error.
+
+You can access the IP from the link: https://www.ipdenavegacion.com.ar/
+
+Best regards.
+
+
+# thanks update
+
+Hello rodrigo coria!
+
+Thanks for the update
+
+Do not hesitate to contact us if you need further assistance.
+
+Best regards.
+
+
+# which domain is facing the issue
+
+Hello Milagros Aguiar!
+
+Please tell me the domain you are having problems with.
+
+Best regards.
+
+
+# ip is not blked give the ss of the error
+
+Hello Carolina del Re!
+
+Upon checking I have not found any blocking for the IP address "75.85.167.113" on the server.
+
+Please check it again and if you still have the problem, please send me the screenshot of the error.
+
+Best regards.
+
+
+# creation of email account 
+
+Hello Rogel Properties S.L. !
+
+I have checked your Cpanel and I can see that the language is Spanish. Regarding the creation of the email account, you can follow the link given below.
+https://ayuda.nuthost.com/knowledge-base/como-crear-cuentas-de-email-en-cpanel
+Please write a check now.
+
+Best regards.
+
+
+Hello Unimedica Uruguay!
+
+It seems to be a problem of your Outlook email client.
+
+Could you check it out with the suggestion mentioned in the Microsoft community and tell me how it works?
+
+https://answers.microsoft.com/en-us/outlook_com/forum/all/getting-error-0x800ccc0d/d3003074-ef91-40a1-a0df-bfa425a93597
+
+Best regards.
+
+
+# email with wrong passwords
+
+If it tries to connect automatically, it will get your IP blocked over and over again.
+Please check all your devices and email applications and verify that you are using the correct password.
+
+
+# email
+
+We have checked and found that IP "5.192.174.226" was blocked in servers firewall. I have unblocked it now. Additionally please make sure correct login details are used to access the email account "ubaidulllah@bmctelecom.ae" in future as multiple failed attempts were detected.
+
+
+
+# link of filezilla connection
+
+If necessary refer to the links below:
+https://simplyhosting.net/index.php?rp=/knowledgebase/61/Configuring-your-website-in-FileZilla.html
+https://simplyhosting.net/index.php?rp=/knowledgebase/62/Uploading-files-using-FileZilla.html
+
+
+# simply thnaks update
+
+Thank you for your update
+
+Feel free to get back to us, If you need any further assistance
+
+Regards,
+
+
+# ip blk due to email issue
+
+Your IP address 204.112.44.43 is blocked by server's firewall due to failed authentication to mail account "dildar@mspcda.com".
+
+Jun 13 12:45:08 wyoming dovecot: imap-login: Disconnected: Connection closed (auth failed, 1 attempts in 6 secs): user=<dildar@mspcda.com>, method=PLAIN, rip=204.112.44.43, lip=172.31.95.124, TLS: Connection closed, session=<xkkA2VfhCPjMcCwr>
+To avoid such issues in the future you need to verify the mentioned email account password also you can reset the password from the cPanel>Email accounts section.
+
+# thanks 
+
+
+Hello Peter Dolman!
+
+You're welcome.
+Please let us know if you need any further assistance.
+
+Regards,
+Justin M
+
+
+# bw 
+
+Hello Sir,
+
+We are working on the issue. We will update you shortly.
+
+If you have any further questions or concerns, let us know. We are here 24/7 and always happy to help.
+
+
+Hello Sir,
+
+The issue has been resolved, Please have a check and let us know
+
+If you have any further questions or concerns, let us know. We are here 24/7 and always happy to help.
+
+
+Hello Sir,
+
+We are working on the issue. We will update you shortly.
+
+If you have any further questions or concerns, let us know. We are here 24/7 and always happy to help.
+
+Hello Sir,
+
+Upon checking we couldn't find any logs other than those provided before. Also, I couldn't find anything about the deletion of the logs.
+
+If you have any further questions or concerns, let us know. We are here 24/7 and always happy to help.
+
+
+# migration
+
+Hello
+
+The migration has been completed, the website is pointing to the new server IP 167.250.5.71
+I have checked and confirmed that the domain is loading well from our side
+Please check from your end and let us know
+
+Best regards.
+
+Hello Diego Martinez Nuñez!
+
+If you have any inconvenience, please let us know.
+
+Best regards.
+
+
+
+# migration
+
+
+Hello Oscar Campos!
+
+The migration has been completed and the domains are loaded well from our side except 'potosi.travel and oruro.travel'. These domains do not have any DNS records.
+You can access the Cpanel using the following link:
+
+https://imutes.servidoraweb.net:2083
+Please check it out from your point of view. Let us know if you have any problems.
+
+Best regards.
+
+
+# ftp issue
+
+Could you please share the login credentials that
+you have been used for connecting FTP. So that we can verify from our end
+
+
+# thanks update
+
+
+Hello,
+
+Thanks for the update. Glad to hear that your issue is resolved.
+
+Feel free to get back to us, if you need any further assistance.
+
+
+# transfer to primary admin
+
+Hello CIEC FOUNDATION!
+
+We are forwarding this ticket to the primary administrator and they will inform you shortly. Please wait. 
+
+
+
+# auto ssl renew
+
+Hello
+
+When we checked it we could see that the ssl of your domain is currently expired.
+
+And now we are renewing it.
+
+You can check it using the link
+
+https://www.sslshopper.com/ssl-checker.html#hostname=eshopsattva.com
+
+Please check back and let me know if you need more help.
+
+
+
+# mail blk issue
+
+
+Upon checking we couldn't find any block on the mentioned IP address. We have also verified that email services are working fine.
+Upon checking the logs we could find the following log
+--------------------------------------------
+2022-06-25 16:44:18 dovecot_login authenticator failed for ([IPv6:::ffff:192.168.1.134]) [197.36.123.244]:64065: 535 Incorrect authentication data (mailto:set_id=a.latif@egyptianemirates.net)
+--------------------------------------------
+Could you please try to access the webmail from a different browser or from a different ISP using the correct credentials
+
+
+# bypass nuthost
+
+
+Hello Ariel Pablo Bran!
+
+This is the notification email you receive when your email account is accessed outside of Argentina, South America, and the U.S.
+
+If access from the Polish IP is legitimate, we may terminate the email account for international access
+
+Please check and let me know if you need more help
+
+
+Hello Santiago Medina!
+
+This is the notification email you receive when your email account is accessed outside of Argentina, South America, and the U.S.
+
+If access from the Canada IP is legitimate, we may prevent the email account for international access
+
+Please check and let me know if you need more help
+
+
+
+# bypass reply 
+
+Hello Digital Vision!
+
+Thank you for your update
+I have bridged your domain for international access
+
+Please check and let me know if you need more help
+
+
+# php version change (cageFS)
+
+
+Hola Giuliano Franchi!
+
+You can change the PHP version of the domain from the MultiPhp Manager in Cpanel.
+Remember that the version you select should always be "EA-PHP".
+
+See the URL: https://ayuda.nuthost.com/knowledge-base/cambiar-php-version-cpanel
+
+Please let us know if you need further assistance.
+
+
+# php memroy limit issue
+
+Upon checking the problem seems to be caused by the memory limit, please see the log below:
+
+[26-Jun-2022 11:11:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home2/joaquin/laravel/vendor/symfony/error-handler/Error/FatalError.php on line 50
+I have increased the memory limit now, please try to register the item again and let me know if you are still facing the problem
+
+
+# forward to primary admin
+
+
+Hello CIEC FOUNDATION!
+
+We are forwarding this ticket to the primary administrator and they will inform you shortly. Please wait.
+
+
+# require for login details
+
+
+Hello Franco Ciarrocca!
+
+To check this further, let us know your administrator's login details so that you can replicate the issue from our side.
+
+Best regards.
+
+
+# configuration details
+
+Hello Jose Jaliff!
+
+As per your request, I have attached the configuration details
+
+Please check and let me know if you need more help
+
+Best regards.
+
+
+
+# bypass enabled reply
+
+
+Hello Dario Santórsola!
+
+Thank you for contacting our extreme.
+Based on the update, I have enabled access to your account.
+
+Best regards.
+
+# bypass asking ip address
+
+
+Could you please share ip address
+
+You can check it using the link
+
+https://www.ipdenavegacion.com.ar/
+
+# ip for nuthost
+
+https://www.ipdenavegacion.com.ar/
+
+# which domain has the problem
+
+Hello Augusto Baleriani!
+
+Could you tell us the domain you mention so we can check it further?
+
+Best regards.
+
+
+
+# ip enabled reply for htaccess rule
+
+We have enabled access for your ip.
+
+Please check from your end and let us know.
+
+
+# thanks update
+
+
+Hello Gonzalo Alonso Fiks!
+
+You're welcome and thanks for the update
+
+Best regards.
+
+
+# forward to senior admin
+
+Dana,
+
+Let me forward this to the senior admin and will get back to you with an update, Please hold on
+
+Regards,
+
+
+# untaring backup
+
+
+Gerald,
+
+Please note that the backup file is in compressed format(tar.gz). You need to download software/applications on your local system, that help to extract the compressed files in .tar.gz extenstion. Eg, WinRAR,7 zip
+
+Do let us know if you need any further assistance.
+
+Regards,
+
+
+Gerald,
+
+You can locate the website files under the directory homedir-> public_html. Also, the MySQL backup file resides under the "mysql" directory.
+
+Kindly check and do let us know if you need any further assistance.
+
+Regards,
+
+
+# update the domain 
+
+
+Could you please confirm that you would like to change the primary domain of your account v1aj3sm0s from viajesmoscardo.com.mx to viajesmoscardo.com.
+
+Kindly update the nameservers of the domain viajesmoscardo.com as below, so as the domain will be pointed to our end and we can proceed with the domain change
+
+dns1.servidoraweb.net
+dns2.servidoraweb.net
+
+Please have a check and let us know
+
+
+# email issue
+
+
+Upon checking the email from "John.LawrenceIII@vthm.com" seems to be received in "sjohnson@quanticeng.com", Please refer to the log below:
+
+2022-06-23 13:35:57 1o4RgL-00DZhD-9d <= John.LawrenceIII@vthm.com H=mail-1.shnw.net [52.87.107.1]:34616 P=esmtps X=TLS1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no S=157136 id=BN0P110MB17681718867620CFC568A511F3B59@BN0P110MB1768.NAMP110.PROD.OUTLOOK.COM T="RE: B148 IDE Upload Notifications" for sjohnson@quanticeng.com
+2022-06-23 13:36:03 cwd=/var/spool/exim/input 5 args: /usr/sbin/exim -C /etc/exim_outgoing.conf -Mc 1o4RgL-00DZhD-9d
+2022-06-23 13:36:03 1o4RgL-00DZhD-9d => sjohnson <sjohnson@quanticeng.com> R=virtual_user T=dovecot_virtual_delivery C="250 2.0.0 <sjohnson@quanticeng.com> EL9pDZOytGKjXTEACsY//Q Saved"
+2022-06-23 13:36:03 1o4RgL-00DZhD-9d Completed
+Also, We couldn't find any block for the IP address "52.61.90.134" on the server
+
+Please have a recheck and if you are still facing the issue please let me know the bounce-back email along the with the error screenshot
+
+
+# name change of primary domain
+
+
+Hello Carlos Orieta Keipert!
+
+As per your request, we have changed the primary domain name of the account "eume.com.ar" to "soygabikist.com.ar".
+
+Please check and let us know if you need further assistance.
+
+Best regards
+
+
+
+# email issue
+
+
+Bruce,
+
+It seems you are not able to access your website from your end, The issue is caused due to your IP address being blocked in the server due to failed IMAP login, Please see the log below:
+
+csf.deny: 60.227.45.79 # lfd: (imapd) Failed IMAP login from 60.227.45.79 (AU/Australia/cpe-60-227-45-79.nb01.nsw.asp.telstra.net): 10 in the last 3600 secs - Thu Jun 30 17:59:53 2022
+Jun 30 18:02:49 nevada dovecot: imap-login: Disconnected: Inactivity (auth failed, 2 attempts in 179 secs): user=<bruce@royroyes.net>, method=PLAIN, rip=60.227.45.79, lip=172.31.30.101, TLS, session=<rNsaOrLi18w84y1P>
+Jun 30 18:02:49 nevada dovecot: imap-login: Disconnected: Inactivity (auth failed, 2 attempts in 179 secs): user=<rrfl@royroyes.net>, method=PLAIN, rip=60.227.45.79, lip=172.31.30.101, TLS, session=<GOUaOrLi1sw84y1P>
+Most likely you have a computer or mobile device configured to connect to our IMAP (mail) server with the wrong password for the email account "bruce@royroyes.net", "rrfl@royroyes.net". If it tries to connect automatically, it will get your IP blocked over and over again.
+Please check all your devices and email applications and verify that you are using the correct password.
+
+You can reset the password by following the steps if necessary
+Log into your cPanel account.
+Click on Email Accounts under the Email section.
+Locate the account you wish to update the password for and click the Manage button located to the right of the account listing.
+Under the section labeled Security, find the field for New Password and enter your new password. You can also use the Generate button to generate a random password.
+Scroll to the bottom of the Manage page then click the button labeled Update Email Settings to apply the new password.
+Don't forget to change the email password in all of your email clients after you follow the steps above.
+
+
+
+#  email spamming
+
+
+
+Hello Sir,
+
+Our monitoring tool has detected massive spamming from petros.b@sosiyaintl.ae. It looks like the email account has been compromised so we have reset the email account's to stop the spamming.  Please see
+
+[root@server4 ~]# cat /var/log/exim_mainlog | grep petros.b@sosiyaintl.ae | grep 2022-07-01 | wc -l
+40608
+
+
+
+Please follow the below security measures to keep the account secure,
+
+● Do not make your control panel password public.
+● While uploading any data from your local pc scan it with any anti-virus.
+● Change the passwords for all the email accounts.
+● Make sure that you are always installing applications/themes/plugins etc from authorized resources.
+● It is best to scan your computer for Malware using the Malwarebytes software to remove any malicious pieces of software that may be the culprit.
+
+
+You can reset the email account password following the below steps,
+
+    Log into your cPanel account 
+    Click on Email Accounts under the Email section.
+    Locate the account you wish to update the password for and click the Manage button located to the right of the account listing.
+    Under the section labeled Security, find the field for New Password and enter your new password. You can also use the Generate button to generate a random password.
+    Scroll to the bottom of the Manage page then click the button labeled Update Email Settings to apply the new password.
+
+
+If you have any further questions or concerns, let us know. We are here 24/7 and always happy to help.
+
+
+# bw kb link
+
+
+https://kb.buzinessware.com/knowledge-base/how-to-connect-ftp-over-ssl-tls-over-filezilla/
+
+
+# bw mail pop3 imap
+
+Please note:
+
+    IMAP email access coordinates between the server and your mail application. Messages that have been read/deleted/replied to will show up as such, both on the server and in the mail application.
+    POP3 does not coordinate with the server. Messages marked as read/deleted/replied to in the mail application will not show up as such on the server. This means that future mail downloads with POP3 will show all messages as unread.
+
+
+It seems that you have downloaded the emails to your email client, Please have a check from your end
+
+
+
+# as per log
+
+
+As per the log, info@speedydrive.ae is causing the issue, please have a check from your end
+
+
+#bw email client
+
+
+
+Hello Sir,
+
+You can configure using the following settings
+
+Outlook Settings:
+
+Username : Your email address
+Password : Email address password
+POP server or Imap server : popbox.apps.ae
+smtp server : popbox.apps.ae
+imap port : 993 or pop port = 995
+smtp port : 587 with TLS
+SMTP authentication: ENABLED
+
+If you have any further questions or concerns, let us know. We are here 24/7 and always happy to help.
+
+
+# our senior admin
+
+Zorica,
+
+Our senior admin will update you the details once he is available
+
+
+# exim syntax error
+
+
+Hello Sir,
+
+Upon checking we could see that your IP address was blocked on the server firewall due to Exim syntax errors. You can verify the same from the below log:
+---------------------------
+Exim syntax errors from 94.207.80.79 (-): 10 in the last 3600 secs - Blocked in csf port=587 [LF_EXIMSYNTAX]
+---------------------------
+I have unblocked the IP address now.
+
+When you send emails from your Email client, please make sure that you have the mail address correct in the address box and ensure it doesn’t contain any special characters like quotations or any other special symbols around the email address.
+When you have these symbols around the mail address, this will interpret as a strange character and the Email server doesn’t know how to handle it. It will mark this as a syntax error like we got in the log and will block the IP in the firewall. This will eventually produce connection error issues in the outlook or Email client.
+In short, type the email address carefully and ensure there are no weird symbols or characters and that’s all, double-check everything before sending, that’s all, your mail will work fine.
+
+
+Upon checking we could see that your IP address was blocked on the server firewall due to Exim syntax errors from the mailto:contact@quicklease.ae. You can verify the same from the below log:
+---------------------------
+Jul 19 13:47:47 server6 lfd[4118]: (eximsyntax) Exim syntax errors from 58.65.211.163 (-): 10 in the last 3600 secs - Blocked in csf port=587 [LF_EXIMSYNTAX]
+
+2022-07-19 13:45:34 SMTP call from (LAPTOPR5QUVB1V) [58.65.211.163]:12578 dropped: too many syntax or protocol errors (last command was "RCPT TO: <'contact@quicklease.ae'>",  C=EHLO,AUTH,MAIL,RCPT,RCPT,RCPT,RCPT)
+---------------------------
+
+I have unblocked the IP address now.
+
+Please note that when you send emails from your Email client, please make sure that you have the mail address correct in the address box and ensure it doesn’t contain any special characters like quotations or any other special symbols around the email address.
+When you have these symbols around the mail address, this will interpret as a strange character and the Email server doesn’t know how to handle it. It will mark this as a syntax error like we got in the log and will block the IP in the firewall. This will eventually produce connection error issues in the outlook or Email client.
+In short, type the email address carefully and ensure there are no weird symbols or characters and that’s all, double-check everything before sending, that’s all, your mail will work fine.
+
+
+
+Hello Sir,
+
+Upon checking we could see that your IP address was blocked on the server firewall due to Exim syntax errors. You can verify the same from the below log:
+
+(eximsyntax) Exim syntax errors from 87.201.163.209 (-): 10 in the last 3600 secs - *Blocked in csf* port=25 [LF_EXIMSYNTAX]
+
+I have unblocked the IP address now.
+
+On further checking we have found domain info@speedydrive.ae' dropped too many syntax or protocol errors. You can also verify same from the below log.
+
+2022-07-06 15:50:24 SMTP call from (DESKTOPLOQOCN8) [87.201.163.209]:48721 dropped: too many syntax or protocol errors (last command was "RCPT TO: <'info@speedydrive.ae'>", C=EHLO,AUTH,MAIL,RCPT,RCPT,RCPT,RCPT,RCPT)
+
+
+
+If you have any further questions or concerns, let us know. We are here 24/7 and always happy to help.
+
+
+
+# email password reset
+
+
+Please let me know the email account you want to change password so that we can help you further 
+
+
+Hello Sir,
+
+Either you need to know the current password to reset it from webmail or if you don' know the password you can reset it from Cpanel
+
+# ssl for other server with cerificate
+
+Hello Sir,
+
+As per the chat conversation in order to install the SSL please share the certificate along with the server root credentials
+
+
+
+# backup 
+
+
+Hello Sir,
+
+Could you please download the backup file to your local machine and then upload the particular mail folder inside the backup file, So it might to possible for us to restore the files without a space issue
+
+The folder that you need to upload: backup_file/homedir/mail/
+
+Please have a check from your end
+
+
+
+# ssl renew
+
+
+Hello Sir,
+
+We have successfully installed SSL certificates for the domain www.al-emadcars.com. You can also verify from the below link.
+
+https://www.sslshopper.com/ssl-checker.html#hostname=www.al-emadcars.com
+
+Please have a recheck from your side
+
+
+
+# cron error
+
+
+I have checked the logs and verified that the crons are running correctly. Please see the records below,
+
+Jul 8 00:00:01 mon22 CROND[429417]: (swbfnxhr) CMD (/usr/bin/php /home7/swbfnxhr/public_html/public/cron/tabla_clima.php >/dev/null 2>&1)
+Jul 8 00:30:01 mon22 CROND[456064]: (swbfnxhr) CMD (/usr/bin/php /home7/swbfnxhr/public_html/public/cron/tabla_clima.php >/dev/null 2>&1)
+Please share with us the error you are receiving so that we can do a detailed check of this.
+
+
+
+# bw chat
+
+
+Hello Ceban Hammoumraoui. Welcome to Buzinessware. My name is Jose. How may I help you?
+
+This is sales related query, could you open aticket to the sales team. They will be able to help you on this
+
+please raise the ticket to billing team as they has the access so they can give you
+
+
+
+# domain change issue
+
+
+
+On checking, we could see that the domain
+danielelnegroferreyra.com is parked under your main domain.
+
+Please remove it first so we can proceed with the domain change
+
+
+# enable extension
+
+
+We have enabled the Imagick extension for the domain. You can check it from the following link:
+
+http://interpretacion.com.ar/info.php
+Please check it out from your point of view.
+
+
+# domain expiry
+
+Upon checking we could see that your domain 'robortiz.com.ar' is currently expired. You can verify the same from the below link:
+
+
+Please renew the domain name to resolve the issue.
+
+
+# high access from the ip
+
+Upon checking I could see high access from the IP address "78.196.224.10" to your website, please see the log below:
+
+[root@nevada ~]# cat /usr/local/apache/logs/domlogs/linesvil/linesvillecemetery.org-ssl_log  | grep 78.196.224.10 | wc -l
+66730
+I have currently blocked the IP address and made some PHP tweaks to improve your site performance
+
+Please have a recheck and let me know if you are still facing the issue
+
+
+
+# malware scanning
+
+
+Thank you for the update.
+
+I have checked and confirmed that no malware files were found in your account.
+
+You can view the latest scan result from cPanel > ImunifyAV.
+
+Please note that if we detect any spam from your account without notice, we will suspend the account.
+
+
+# malware 
+
+Hello Pablop Benadiba!
+
+If mass mailings are re-verified, we will be forced to completely suspend access to the website and facilitate access to your IP address to resolve the issue.
+
+
+
+# mx record change
+
+
+Once we update the MX records all the email services will be pointing to the remote provider and when someone send an email to one of your email accounts it will be received at the external provider where your email service are pointed.
+Please confirm if you want to update the MX records as you previously requested.
+
+
+# plz tell exact issue
+
+Please tell me the steps to replicate the problem from our side, also please share the login credentials if there are any
+
+
+#plz contact
+
+Hello Gabriel Ballone!
+
+Please contact us when you want to update MX records.
+
+
+# as per you request
+
+Hello,
+
+As per your request we have deleted the folder public_html.bk from your account.
+
+Please have a check and let me know if you need any further assistance.
+
+
+# 403 error no files in public html
+
+
+I couldn't find any website files under public_html which caused the reported issue but on further checking I located the website contents under Trash directory. May I know if you deliberately tried to delete all the contents if not I can move the contents back to public_html folder also we can restore the contents from a previous backup if needed.
+
+Do let us know how to proceed on this.
+
+
+# vc server ip
+
+Could you please provide the IP address from where you are having the problem. You can find your public IP address at the following link: http://ip.vc-server.de
+
+Also, please provide the steps to replicate the issue from our end.
+
+If you have any further questions, please do not hesitate to contact us.
+
+
+# malicious activity
+
+
+We have found malicious activity from your account, please see below:
+
+During an investigation of fraud, we discovered a compromised website (graycompston.co.uk).
+
+hXXps://graycompston.co.uk/Securelogin/Stcu.org/mobile
+
+First detection of malicious activity: 07-12-2022 12:02:56 UTC
+Most recent observation of malicious activity: 07-12-2022 12:03:26 UTC
+Associated IP Addresses:
+18.205.87.16
+
+=== WEBSITE OWNER ===
+We recommend taking the following actions to secure the web site and prevent the attackers from returning:
+- Update your web applications including CMS, blog, ecommerce, and other applications (and all add-on modules/components/plugins).
+- Search all of your web directories for suspicious files as attackers commonly leave backdoors.
+- Scan the computer from which you login to your web hosting control panel or ftp server with anti-virus software.
+In order to prevent the abuse, we have null routed the directory and also reset the cpanel password
+
+In order to access Cpanel, you need to rest the password from your end using the link https://simplyhosting.net/index.php?rp=/knowledgebase/13/How-to-change-your-cPanel-password.html and access the account.
+
+Please have a check and acknowledge it from your end
+
+
+
+# do some changes
+
+We have made some adjustments to the php parameters for the domain ecobreak.com.ar.
+
+Please check back now.
+
+If the problem persists, please share the error screenshot you are receiving and the exact steps to replicate the problem from our side
+
+Best regards.
+
+
+# point to new server after migration
+
+Hello Julian !
+
+We have successfully completed the migration and the subdomain is tienda.silher.com.ar loading well when checked locally.
+
+Checking it we can see that the main domain is silher.com.ar pointing to the remote endpoint, also in regards to the subdomain tienda.silher.com.ar since the DNS of the domain is managed at the dreamhost endpoint. You need to update the A record with the IP of the new server (IP of the new server: 167.250.5.72).
+
+Please check and let us know if you have any problems.
+
+Best regards.
+
+
+We have successfully completed the migration.
+
+When we check it we can see that the main domain lapinochachocolates.com points to the remote end, in addition it does not have any content under the root of the document.
+
+Also as for the subdomain pgi.lapinochachocolates.com loads well when checked locally, you can check it in the attached screenshot
+
+As the DNS of the domain is managed at the remote end. Please update the A record of the domain pgi.lapinochachocolates.com with the IP of the new server (IP of the new server: 167.250.5.71.), so that the domain points to the new server.
+
+Please check and let us know if you have any problems.
+
+
+# email issue
+
+By checking it, we can access the webmail and also check the sending/receiving of email from info@argentinavoyage.com to our test email account without any failure.
+
+Please check again.
+If you come across the problem, tell us the exact steps to replicate the problem from our side and also share the screenshot of the error you are getting, also provide us with your public IP using the link below.
+https://ipdenavegacion.com.ar.
+
+
+Hello Sir,
+
+Kindly share the login credentials of the respective email accounts, so that we can check on this further.
+If you have any further questions or concerns, let us know. We are here 24/7 and always happy to help.
+
+
+Hello Sir,
+
+Regarding the redirection, As we have already mentioned before the DNS records of maqaami.ae are managed at Cloudflare, this can only be done from your end or you can share the Cloudflare login details with us and we could check on it
+
+The mail is going to spam is also due to the DNS issue with the domain maqaami.ae,  kindly add A record for the domain maqaami.ae pointing to server IP "185.56.89.34" and have a check
+
+
+If you have any further questions or concerns, let us know. We are here 24/7 and always happy to help.
+
+
+# as per request
+
+As per your request, I have added the google MX record for the domain theiuc.org
+You can verify it from the link: https://mxtoolbox.com/SuperTool.aspx?action=mx%3atheiuc.org&run=toolpage
+
+Please have a check and do let me know if you need any further assistance
+
+# plz share steps
+
+Hello Omar Verdes!
+
+Let us know the steps or attachments you are facing so we can check it out for us.
+
+# access ip
+
+When reviewing the logs, the below mentioned  IP's were accessing the email accounts which you have mentioned.
+
+181.9.146.179
+181.9.146.180
+45.176.89.53
+181.9.146.182
+181.9.146.183
+181.101.92.230
+186.111.134.255
+
+You can check it in the following log:
+
+Please have a check from your end and let us know
+
+# plz hold on
+
+Hello David Hangard!
+
+Let me this and I will get back to you soon.
+
+# ssl renew
+
+Hello Veronica Spyndola!
+
+I have installed the AutoSSL certificate for the domain cecirosariobarcelona.com, you can check it from the following link
+
+https://www.sslshopper.com/ssl-checker.html?hostname=cecirosariobarcelona.com
+
+Also regarding the issue of the softaculous license, I am referring the query to our main administrator. They will review it and inform you about it.
+
+Note: For privacy and security policies, for further inquiries about the domain cecirosariobarcelona.com, please open a ticket from the registered account so that we can better serve you.
+
+
+
+# spoofing
+
+
+
+Hello Sir,
+
+The issue you are facing seems like email forging.
+
+======================
+2022-07-23 08:01:59 1oF6L3-003GFj-8q H=llefcgxt.haircolourblog.com [185.246.220.239]:47685 Warning: Message has been scanned: no virus or other harmful content was found
+2022-07-23 08:01:59 1oF6L3-003GFj-8q <= hr@simchidubai.ae H=llefcgxt.haircolourblog.com [185.246.220.239]:47685 P=esmtps X=TLS1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no S=5529 id=20220722210114.81D3C91C90E09B37@simchidubai.ae T="HR TEAMSent Important Documents" for welcome@simchidubai.ae
+2022-07-23 08:01:59 cwd=/var/spool/exim 3 args: /usr/sbin/exim -Mc 1oF6L3-003GFj-8q
+2022-07-23 08:01:59 1oF6L3-003GFj-8q => welcome <welcome@simchidubai.ae> R=virtual_user T=dovecot_virtual_delivery C="250 2.0.0 <welcome@simchidubai.ae> yNCMB7dy22L31QsAwRU2Fg Saved"
+2022-07-23 08:01:59 1oF6L3-003GFj-8q Completed
+========================
+H=	Represents the host.
+
+Sending an email that appears to have come from someone who did not send it is known as “forging email”. Any spammer can put any email address as the return address(in the FROM field) in their mail client such as Outlook Express.
+
+Please note that there is nothing much a webhost can do to prevent this. What you can do the most is to setup filters for stopping the bounced mails from pouring in. I have set default address to "No such person at this address" so that all unrouteable mails to the domain will not be received in your inbox hereafter.
+Make sure none of your email accounts are listed in plain text on your websites. And also you need to reset the email account password.
+
+If you have any further questions or concerns, let us know. We are here 24/7 and always happy to help.

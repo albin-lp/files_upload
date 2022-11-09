@@ -1,0 +1,34 @@
+https://www.simplyhosting.net/index.php?rp=/knowledgebase/13/How-to-change-your-cPanel-password.html
+
+
+
+https://ayuda.nuthost.com/knowledge-base/como-instalar-moodle-cpanel
+
+
+You can access the IP from the link: https://www.ipdenavegacion.com.ar/
+
+
+
+https://kb.buzinessware.com/knowledge-base/email-password-reset-through-cpanel/
+
+
+swapoff -a && swapon -a
+
+
+You can change php version from cPanel -> MultiPHP Manager
+
+See : https://ayuda.nuthost.com/knowledge-base/cambiar-php-version-cpanel
+
+Please remember to choose ea-php instead of alt-php when changing php version
+
+
+
+when you verify that the ssl fmdinamica.com.ar domain is already installed you can verify it from the following link
+
+https://www.sslshopper.com/ssl-checker.html?hostname=fmdinamica.com.ar
+
+Also, I can see that the domain is added as a domain alias.
+
+As for the wp-admin issue, please share the wp-admin access details and screenshot of the error you are getting, so we can check it.
+
+Best regards

@@ -1,0 +1,145 @@
+Common logins of Serveradminz:
+*************************************
+
+SSH PROXY SERVER details is included below:
+ssh sshuser@54.148.154.57 -p 1616
+Md3Fn32u8zK79kA
+
+Test Server 2 < For Vc Servers>
+***************
+ssh sshuser@52.66.194.80 -p 1616
+Md3Fn32u8zK79kA
+
+TEST EMAIL ACCOUNTS:
+=====Yahoo=====
+URL : https://mail.yahoo.com
+Username : testmail_4us@yahoo.in
+Password : Gnu300a78
+
+=====Gmail=====
+URL : https://mail.google.com
+Username : testmail4us@gmail.com
+Password : hashroot@777
+
+=====AOL=====
+URL: http://mail.aol.com
+Username : testmail4ignore@aol.com
+Password : gnu300a7
+
+=====Hotmail=====
+URL : http://www.hotmail.com
+Username : testingaccount786@hotmail.com
+Password : hashroot@777#
+
+=====Rediffmail=====
+URL: http://login.rediff.com/cgi-bin/login.cgi
+Username : testmail4us@rediffmail.com
+New mail :testmail_4us@rediffmail.com
+Password : gnu300a7
+skype Logins
+-------------
+Url: https://web.skype.com/
+
+abink.serveradminz	 			Abin@hashroot2010
+rahulrajagopal.serveradminz	 		d3fault12#
+sanalk.serveradminz 				Riddick@1434#
+jain.skariah@hashroot.com 			jain@777#
+adarsh.raveendran@hashroot.com 		adarsh@777#
+vishnu.tk@hashroot.com 			vishnu@123
+
+
+simply
+------
+
+Url: https://www.simplyhosting.net/sh-admin/login.php >> desk
+Url: https://www.simplyhosting.net/modules/livehelp/admin/index.php >> live chat
+
+AbinKurian  	 }%KdEJAa4Nt2
+JainSkariah	NWvqTK]to4(7
+JishnuP		Ey2f(JoaQKWv6aD
+Rahul		7KY4gvc7$
+SanalK		Ti]JmFqvKhi66TV
+
+
+Username:- hashrootp2@gmail.com
+Password :- hashroot@777#
+
+
+
+
+
+Vcserver
+---------
+
+Url: https://stafftickets.vc-server.de/
+
+a.kurian	 Fe4Vf2-Zm8Wx-H8r
+
+j.skariah	 Sw3g-UnM95-pLe6B
+
+a.raveendran	 R4FcW-2Xp7-B8GWs
+
+s.kumar		 E7g-Thw3Bk-9DsM4
+
+r.rajagopal	A9b-RcK2Pm-5WFv3
+
+
+Nuthost -slack
+---------------
+
+Url:  https://nuthostsa.slack.com
+
+abin@hashroot.com				d3fault123
+adarsh.raveendran@hashroot.com		adarsh@777#
+jain.skariah@hashroot.com			jain@777#
+jishnu.prasad@hashroot.com			jpnuthost
+sanal.kumar@hashroot.com			OvGO3juErbGfnom
+vishnu.tk@hashroot.com			62Y8sTKI7s280Hm
+rahul.rajagopal@hashroot.com			$Skyfall3#
+
+
+
+
+
+Nuthost -desk		
+-------------
+
+Url: https://clientes.nuthost.com/geoadmin/login.php
+
+serveradminz1  >> Abin Kurian
+server*adminz-2018
+
+serveradminz2 >> Rahul Rajagopal	
+server*adminz-2018
+
+serveradminz3 >> Nithin Benny	
+server*adminz-2018
+
+serveradminz4 >> Jain Skariah	
+server*adminz-2018
+
+jishnu.prasad	
+serveradminz,2019
+
+vishnu.tk	
+serveradminz,2019b
+
+
+
+
+
+
+
+
+
+Gemfind logins:
+-------------------
+
+Desk url: https://gemfind.zendesk.com/agent/dashboard
+----------------
+servers@gemfind.com		ts^2A-f*Rm<q<eYD
+
+Lastpass url: https://lastpass.com/?ac=1&lpnorefresh=1
+------------------
+
+servers@gemfind.com		#gghdb@yZts^2A-f*

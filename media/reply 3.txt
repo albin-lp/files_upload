@@ -1,0 +1,62 @@
+# DNS point
+
+We have checked and fixed the problem of websites.
+www.krativo.online, www.modella.com.mx. Regarding the website www.seleckto.com there is no content. To load the website, you must create an index page.
+As for the website www.fastdrevie.store, it does not point to our end. To aim for our end, you need to add the name server below.
+dns1.servidoraweb.net.
+dns2.servidoraweb.net.
+
+# plz tell the domain name
+
+Please tell us the domain name that has the problem mentioned. This way we can check it and help you.
+
+# tell me the exact problem
+
+We are sorry for the inconvenience, but we are a little confused with your inquiry. Could you tell us if you are using any email clients for the account emilia@estudiojoplin.com.ar that causes the problem? Please explain the exact problem that is occurring from your side. So we can check more details about the problem.
+
+Could you please check if emails appear in the webmail interface just like in the gmail interface?
+
+We couldn't find any issues on the server side. There seems to be some configuration issue on the gmail side.
+
+If you encounter the same problem in the webmail interface, let us know. So we can check it out further.
+
+Best regards.
+
+
+# email configure issue
+
+Could you reconfigure your Apple mail with the following settings?
+
+Nombre de usuario: info@agustinracauchi.com.ar
+Contraseña: Utilice la contraseña de la cuenta de correo.
+Servidor entrante:mail.agustinracauchi.com.ar
+Puerto IMAP: 993 Puerto POP3: 995
+Servidor de salida:mail.agustinracauchi.com.ar
+Puerto SMTP: 465
+IMAP, POP3 y SMTP requieren autenticación.
+To reconfigure the apple mail client you can consult : https://support.apple.com/en-in/HT201320
+
+Once done, try sending the email again and check how it works.
+
+If you still encounter any problems, please provide us with the screenshot of the error you are receiving.
+
+Best regards.
+
+
+# bw email issue
+
+Hello Sir,
+
+Could you please let us know  the account name which has the mentioned problem. 
+
+Also, provide the email settings that you have configured on your email client.
+
+If you have any further questions or concerns, let us know. We are here 24/7 and always happy to help.
+
+
+# simply ip block
+
+I have verified that the domain is loading fine from our end but on further checking I found that your IP was blocked in server firewall which caused the reported issue.
+
+csf.deny: 88.98.91.189 # lfd: 88.98.91.189 (GB/United Kingdom/88-98-91-189.dsl.in-addr.zen.co.uk), 10 distributed ftpd attacks on account [anonymous] in the last 3600 secs - Wed Jul 20 08:32:26 2022
+Currently I have unblocked the IP for you. Please have a check now and let us know if you need any further assistance.
